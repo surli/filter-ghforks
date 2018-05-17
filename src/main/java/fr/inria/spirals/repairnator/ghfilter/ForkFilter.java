@@ -63,7 +63,7 @@ public class ForkFilter {
         }
 
         if (ghRateLimit.remaining < repoSlugs.size()) {
-            System.err.println("You only have: "+ ghRateLimit.remaining + " authorized requests, which is less than the " + repoSlugs.size() + " directories to read. Stop now.");
+            System.err.println("You only have: "+ ghRateLimit.remaining + " authorized requests, which is less than the " + repoSlugs.size() + " directories to read. Stop now. (Date to reset: " + ghRateLimit.getResetDate() + ")");
             System.exit(1);
         }
 
@@ -81,12 +81,13 @@ public class ForkFilter {
                         result.add(repository.getFullName());
                     }
                 } else {
-                    parentRepositories.add(repository);
-                    result.add(repository.getFullName());
+                    if (!parentRepositories.contains(repository)) {
+                        parentRepositories.add(repository);
+                        result.add(repository.getFullName());
+                    }
                 }
             } catch (IOException e) {
-                System.err.println("Error while getting repository");
-                e.printStackTrace();
+                System.err.println("Error while getting repository "+repoSlug);
             }
         }
 

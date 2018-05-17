@@ -53,7 +53,6 @@ SpoonLabs/nopol
 arcao/geocaching-api
 jcabi/jcabi-matchers
 swagger-api/swagger-codegen
-apache/incubator-dubbo
 junit-team/junit5-samples
 rabbitmq/rabbitmq-perf-test
 Blazebit/blaze-persistence
@@ -80,7 +79,6 @@ MyCoRe-Org/mycore
 2018swecapstone/h2ms
 FrankSauve/345BudgetApp
 alipay/sofa-rpc
-STAMP-project/dspot
 fabric8io/fabric8-maven-plugin
 Activiti/Activiti
 jordilucas/ponto-inteligente-api
@@ -152,7 +150,6 @@ dkarv/jdcallgraph
 apache/incubator-plc4x
 zerocracy/farm
 mingshz/ShoppingBeauty
-DSpace/DSpace
 spring-cloud/spring-cloud-dataflow
 docker-java/docker-java
 camunda/camunda-bpm-assert-scenario
@@ -244,7 +241,6 @@ MethodenDB-YFU/method-service
 PauloHartwig/finmap-api
 Confitura/jelatyna-backend
 Syncleus/aparapi
-iotaledger/iri
 jgrapht/jgrapht
 oboehm/gdv.xport
 revaturelabs/hydra-trainer-service
@@ -300,7 +296,6 @@ alibaba/transmittable-thread-local
 HallvardSelthun/HHManager
 marschall/threeten-jpa
 alipay/sofa-hessian
-WASdev/ci.maven
 spring-projects/spring-data-ldap
 Adobe-Consulting-Services/acs-aem-commons
 Arquisoft/InciDashboard_e2a
@@ -403,7 +398,6 @@ openbase/bco.manager
 jhpoelen/eol-globi-data
 nbaars/pwnedpasswords4j
 apereo/java-cas-client
-SonarOpenCommunity/sonar-cxx
 DanilYusupov/aero-dev
 commercetools/commercetools-jvm-sdk
 wso2-extensions/identity-inbound-auth-oauth
@@ -458,7 +452,6 @@ NoraUi/noraui-archetype
 Microsoft/spring-data-cosmosdb
 kevindeyne/relayai
 jnidzwetzki/bitfinex-v2-wss-api-java
-snuspl/nemo
 daggerok/daggerok-context
 ITUBIDB/cavabunga-core
 Axway/iron
@@ -554,7 +547,6 @@ MMirelli/myproject
 javaee-samples/javaee8-samples
 SonarQubeCommunity/sonar-erlang
 lessilva/ponto-inteligente-api
-spring-projects/spring-data-jdbc
 E-Supermercado/Back-end
 figo-connect/java-figo
 hazendaz/psi-probe
@@ -617,7 +609,6 @@ ninjaframework/ninja-db
 mitreid-connect/OpenID-Connect-Java-Spring-Server
 DorineN/ipi-java-350-eval-DorineN
 Glonfindel/World-Of-Testcraft
-zeroturnaround/zt-zip
 radsz/jacop
 GeoWebCache/geowebcache
 sansajn5/ISA-InstaTicketAPI
@@ -699,7 +690,6 @@ opencast/opencast
 saucelabs/sauce-java
 w4tracking/w4tracking
 teetime-framework/TeeTime
-paul604/quizz-movie
 sughalith/lab01
 mustaphazorgati/taskana
 vladimir-bukhtoyarov/bucket4j
@@ -793,7 +783,6 @@ networknt/light-oauth2
 codehaus-plexus/plexus-archiver
 Raul6469/restful-spring
 sps/metrics-opentsdb
-vert-x3/vertx-rabbitmq-client
 wherbawi/tools2
 Arquisoft/Agents_i1a
 lastaflute/lastaflute-test-fortress
@@ -818,7 +807,6 @@ Raouf25/rest-service
 wenner-sanner/ponto-inteligente-api
 ajurge/point-distance-calculator
 apache/nifi-minifi
-gcinterceptor/gci-java
 KCKSoftware/xades4j
 opentripplanner/OpenTripPlanner
 reaktivity/nukleus-http-cache.spec
@@ -856,7 +844,6 @@ tverdokhlebd/mined-in
 RiddlerArgentina/jdrawinglib
 rheem-ecosystem/rheem
 kazuhira-r/infinispan-embedded-server-spring-boot
-hibernate/hibernate-search-6-poc
 jmmut/eva-accession
 damianszczepanik/cucumber-reporting
 opentracing-contrib/java-neo4j-driver
@@ -887,7 +874,6 @@ bootique/bootique-jersey
 iguana-parser/utils
 elena-bondareva/bootique-liquibase
 bootique/bootique-flyway
-bootique/bootique-cayenne
 openmrs/openmrs-module-webservices.rest
 afonsohmm/SpringBootAPISample
 spotify/docker-client
@@ -908,7 +894,6 @@ IsantePlus/openmrs-module-registrationcore
 jairosousa/cursomc-back-end
 ProfSJonalista/InvisibleUniversity
 ivyxjc/sql2o
-performancecopilot/parfait
 nidi3/graphviz-java
 vadeg/dozer
 lvaccaro/java-opentimestamps
@@ -957,7 +942,6 @@ ogama/nebula
 ssmusoke/openmrs-module-aijar
 vitoralves/springAPI
 kaylinche/genericJavaProjectCF
-Avarice111/roletyTAU
 sputnikdev/bluetooth-gatt-parser
 martinschneider/yasew
 gradasso/acqua
@@ -1052,17 +1036,14 @@ flaxsearch/luwak
 openzipkin/zipkin-reporter-java
 SonarSource/sonar-xml
 kortov/travis
-AuScope/portal-core
 apache/bahir-flink
 genepi/cloudgene
-Taskana/taskana
 davidmoten/rxjava-jdbc
 tango-controls/JTango
 unic/neba
 sdorra/buildfrontend-maven-plugin
 opentracing-contrib/java-memcached-client
 realrolfje/anonimatron
-bootique/bootique
 openmrs/openmrs-module-htmlformentry
 kazuki43zoo/demo-application
 open-korean-text/open-korean-text
@@ -1105,7 +1086,6 @@ pedrohub/pontoeletronico
 TheHolyWay/geo-reminder
 Bukharovsi/curriculum
 hanfak/ShopOfHan
-openmicroscopy/bioformats
 HedvigInsurance/member-registry-service
 pcmind/leveldb
 matsim-eth/av
@@ -1115,7 +1095,6 @@ viniciusSilvaAararas/ponto-inteligente-api
 roboconf/roboconf-platform
 Bernardo-MG/dreadball-model-default
 Eduworks/ew
-UniversityFinalProjects/TorrentX
 rest-assured/rest-assured
 Doccrazy/keycloak-protocol-cas
 spring-petclinic/spring-petclinic-angularjs
@@ -1174,7 +1153,6 @@ zaza/allegro-rss
 frekele/cielo-ecommerce-client
 rntdoretto/SpringBoot-APIRESTful
 Lalunaa/lala-tau
-pippo-java/pippo
 Arquisoft/Loader_e3a
 BMark96/ivt-lab
 geddings/floodlight
@@ -1218,7 +1196,6 @@ square/kotlinpoet
 FelixKlauke/doctrin
 dice-group/gerbil
 heroku/heroku-maven-plugin
-square/javapoet
 Twasi/twasi-core
 Wasper/band-management
 SoAJeff/SoADiscordBot
